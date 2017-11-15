@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista produktów</string>
+    <string name="buttonText">Wybierz</string>
+    <string name="vegetable">Warzywo</string>
+    <string name="fruit">Owoc</string>
+    <string name="sweets">Słodycze</string>
+
+    <!-- Plural part -->
+    <string name="zero">Nic nie zaznaczono!</string>
+    <string name="one">Zaznaczono %d produkt!</string>
+    <string name="few">Zaznaczono %d produkty!</string>
+    <string name="other">Zaznaczono %d produktów!</string>
+
+</resources>

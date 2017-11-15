@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Product list</string>
+    <string name="buttonText">Select</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="fruit">Fruit</string>
+    <string name="sweets">Sweets</string>
+
+    <!-- Plural part -->
+    <string name="zero">No products selected!</string>
+    <string name="one">One product selected!</string>
+    <string name="other">%d products selected!</string>
+
+</resources>
